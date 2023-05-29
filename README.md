@@ -1,6 +1,5 @@
 # 💫 About Me:
 👋 Hello, I'm Kavita Rana!<br><br>🚀 I am a computer science student with a specialisation in business analytics.
-
 <br><br>🌱 In my free time, I enjoy reading and painting. <br><br>🔧  I'm always eager to expand my skill set and stay up-to-date with the latest industry trends.
 <br><br>📚 I'm a firm believer in the power of open-source and collaboration. You can find some of my personal projects, contributions, and experiments here on my GitHub profile.
 <br><br>💡 I enjoy sharing my knowledge and experiences with others. I actively contribute to the tech community through writing technical articles on hashnode.
