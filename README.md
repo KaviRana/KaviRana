@@ -7,7 +7,7 @@
 
 
 ## 🌐 Socials:
-[LinkedIn](https://linkedin.com/in/https://www.linkedin.com/in/kavitarana-datascienceenthusiast/) | [Twitter](https://twitter.com/https://twitter.com/KaviRana1203) | 
+[LinkedIn](https://www.linkedin.com/in/kavitarana-datascienceenthusiast/) | [Twitter](https://twitter.com/KaviRana1203) | 
 [Hashnode](https://hashnode.com/@KaviRana)
 
 # 💻 Tech Stack:
